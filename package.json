@@ -1,0 +1,15 @@
+{
+  "name": "protractor-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dwfn3398",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^3.0.0",
+    "protractor-jasmine2-screenshot-reporter": "^0.1.7"
+  }
+}
